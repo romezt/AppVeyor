@@ -30,7 +30,8 @@
       },
       "currency": {
         "type": "string",
-        "validCurrency": { "enum":["RUR", "USD"]}
+        "validCurrency": { "enum":["RUR", "USD"]},
+        "pattern": "RUBUSD"
       }
     }
   }
