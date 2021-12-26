@@ -30,7 +30,7 @@
       },
       "currency": {
         "type": "string",
-        "pattern": "^[R,U][U,S][R,D]*$"
+        "pattern": "^[R,U][U,S][B,D]*$"
       }
     }
   }
